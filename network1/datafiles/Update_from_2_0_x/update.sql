@@ -1,0 +1,1 @@
+ALTER TABLE `high_score` ADD `lb_gameid` INT(25) NOT NULL DEFAULT '1' ;

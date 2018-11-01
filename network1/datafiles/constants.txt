@@ -1,0 +1,3 @@
+mySEED=15
+myURL=""
+myGAMEID=1
